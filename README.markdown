@@ -2,6 +2,9 @@ Marionette-Require-Boilerplate (MRB)
 ==================================
 ![Example](http://sidnet.info/sites/default/files/marionette-logo.png)   ![Example](http://3.bp.blogspot.com/-JFOJ-k6tLnA/TsiKgBYPvqI/AAAAAAAAAT8/dGXeu0LeuTE/s320/backbone-js-logo.png) ![Example](http://requirejs.org/i/logo.png)
 
+#Origin
+http://keyholesoftware.com/2013/06/17/introducing-marionette-require-boilerplate-for-your-single-page-application/
+
 
 #Description
 > A Marionette.js and Require.js Boilerplate that promotes decoupling your JavaScript into modules, separating business logic from application logic using Collections/Models, Regions and Views, reusing your JavaScript between Desktop and Mobile Web versions while using a mobile framework (jQuery Mobile), including non-AMD Compatible Third Party Scripts in your project, optimizing your JavaScript and CSS files (minify, concatenate, etc), and unit testing your JavaScript.  Part of the [BoilerplateMVC](https://github.com/BoilerplateMVC) suite.
